@@ -12,6 +12,13 @@ PromptCraft AI is an interactive web application built using Python, Streamlit, 
 - **AI-Powered Responses:** Generate responses using a large language model through the Groq API.
 - **Simple User Interface:** Easy-to-use interface developed with Streamlit.
 - **Secure API Configuration:** Store the API key in an environment variable instead of hardcoding it.
+---
+<img width="1362" height="630" alt="image" src="https://github.com/user-attachments/assets/f552fa98-832f-4212-9281-deaeec2486d1" />
+---
+<img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/6ebe1b6e-e3eb-4b91-a2f2-44b2cb8ca41e" />
+---
+<img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/c9fe83fb-e71b-42e4-83aa-b1ff11a24dbe" />
+---
 
 ## 🛠️ Technologies Used
 
