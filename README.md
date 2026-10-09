@@ -1,5 +1,7 @@
 # 🤖 PromptCraft AI
 
+## Demo link : https://wtdb63qv3urbm86ihcvgxw.streamlit.app/
+
 ### Prompt Engineering Playground
 
 PromptCraft AI is an interactive web application built using Python, Streamlit, and the Groq API. It allows users to enter prompts, generate AI responses, and control response creativity and length through adjustable generation settings.
