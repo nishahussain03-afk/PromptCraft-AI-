@@ -1,4 +1,3 @@
-````markdown
 # 🤖 PromptCraft AI
 
 ### Prompt Engineering Playground
@@ -24,7 +23,6 @@ PromptCraft AI is an interactive web application built using Python, Streamlit, 
 
 ## 📂 Project Structure
 
-```text
 PromptCraft-AI/
 │
 ├── app.py
@@ -33,24 +31,19 @@ PromptCraft-AI/
 ├── README.md
 ├── .env
 └── .gitignore
-````
 
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
 
-```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd PromptCraft-AI
-```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository URL.
 
 ### 2. Create a Virtual Environment
 
-```bash
 python -m venv venv
-```
 
 Activate it on Windows:
 
